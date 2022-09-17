@@ -16,4 +16,3 @@ if (jogador1 % 2 == 0 && jogador2 % 2 != 0 || jogador2 % 2 == 0 && jogador1 % 2 
     console.log("Deu empate!")
 }
 
-//helpppp
